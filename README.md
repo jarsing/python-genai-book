@@ -1,6 +1,6 @@
 ![書籍封面](https://cf-assets2.tenlong.com.tw/products/images/000/237/772/webp/9786264141871_bc.webp?1745983938)
 
-這裡是《Python 原力爆擊：OpenAI / Gemini / AWS / Ollama 生成式 AI 應用新手指南》[第7章](./CH7)和[第8章](./CH8)的程式範例。
+這裡是《[Python 原力爆擊：OpenAI / Gemini / AWS / Ollama 生成式 AI 應用新手指南](https://www.tenlong.com.tw/products/9786264141871)》[第7章](./CH7)和[第8章](./CH8)的程式範例。
 
 ## 作者簡介
 
