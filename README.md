@@ -4,7 +4,7 @@
 
 ## 作者簡介
 
-[陳佳新](https://www.facebook.com/jarsing.7816)：彰化軟體公司奇步應用（ChiBuApp Inc.）執行長，是國際資訊大廠官方認證的LINE API Expert聊天機器人技術專家暨微軟AI MVP人工智慧最有價值技術專家，同時也是Chatbot Developers Taiwan中部分舵、GDG Changhua、彰化AMA小聚等社群活動的主辦人，經常在COSCUP、MOPCON、.NET Conf等開發者年會擔任講者，致力於提升故鄉彰化的數位化能力，立志成為地方創生最強而有力的數位轉型支持系統。
+[陳佳新](https://www.facebook.com/jarsing.7816)：彰化軟體公司[奇步應用](https://fb.com/chibuapp)（ChiBuApp Inc.）執行長，是國際資訊大廠官方認證的LINE API Expert聊天機器人技術專家暨微軟AI MVP人工智慧最有價值技術專家，同時也是Chatbot Developers Taiwan中部分舵、GDG Changhua、彰化AMA小聚等社群活動的主辦人，經常在COSCUP、MOPCON、.NET Conf等開發者年會擔任講者，致力於提升故鄉彰化的數位化能力，立志成為地方創生最強而有力的數位轉型支持系統。
 
 ## 作者序
 
